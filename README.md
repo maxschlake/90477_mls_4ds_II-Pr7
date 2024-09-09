@@ -16,4 +16,4 @@ The architecture is based on the paper **The nexus between COVID-19 deaths, air 
   
 ## Project Structure
 
-The `data` folder contains the project data, while the `ref` folder contains the project paper. The code in `scripts/final_script.ipynb`, runs through the process and saves the plots into `figures`.
+The `data` folder contains the project data, while the `ref` folder contains the project paper. The code in `scripts/final_script.ipynb` runs through the process and saves the plots into `figures`.
